@@ -11,9 +11,10 @@ import java.util.Date;
 
 /**
  * 
- * @author https://octaviorobleto.com/
+ * @author <a href="https://octaviorobleto.com" target="_blank">Octavio Robleto</a>
  * @version 1.0
- * @since 2022-06-27
+ * @date 2022-06-27
+ * @class Fecha
  *
  */
 public final class Fecha {
